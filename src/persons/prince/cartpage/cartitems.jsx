@@ -1,5 +1,5 @@
 
-import Nftcartpages from "./Cartnft";
+import Nftcartpages from "./CartNft";
 import { useEffect, useRef, useState } from "react";
 import useApiHandler from "@/hooks/useApiCall";
 import { showErrorToast} from "@/lib/toastUtils";
