@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-import Cartitems from "./Cartitems";
+import Cartitems from "./CartItems";
 import { useNavigate } from "react-router-dom";
 import useApiHandler from "@/hooks/useApiCall";
 
