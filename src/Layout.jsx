@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Outlet } from "react-router-dom";
 import { FiMenu } from "react-icons/fi";
 import SidebarCompo from "./persons/shreya/Pages/SidebarCompo";
-import NavbarCompo from "./persons/harsh/common/NavbarCompo";
+import NavbarCompo from "./persons/harsh/common/Navbarcompo";
 
 const Layout = () => {
   const [isOpen, setIsOpen] = useState(false);
