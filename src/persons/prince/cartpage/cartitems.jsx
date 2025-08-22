@@ -6,7 +6,7 @@ import { showErrorToast} from "@/lib/toastUtils";
 
 import { AiOutlineDelete } from "react-icons/ai";
 
-const Cartitems = ({
+const CartItems = ({
   productid,
   nftcardid,
   cartid,
@@ -249,4 +249,4 @@ const handleDecrement = () => {
   );
 };
 
-export default Cartitems;
+export default CartItems;
