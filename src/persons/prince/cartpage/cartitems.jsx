@@ -1,11 +1,10 @@
-import { MdDelete } from "react-icons/md";
+
 import Nftcartpages from "./Cartnft";
 import { useEffect, useRef, useState } from "react";
 import useApiHandler from "@/hooks/useApiCall";
 import { showErrorToast, showSuccessToast } from "@/lib/toastUtils";
-import { data } from "react-router-dom";
+
 import { AiOutlineDelete } from "react-icons/ai";
-import { Hand } from "lucide-react";
 
 const Cartitems = ({
   productid,
