@@ -1,0 +1,24 @@
+{
+    "faqs": [
+      {
+        "question": "What is the purpose of this platform?",
+        "answer": "This platform allows users to invest in movies before their release through fan cards, sharing profits based on box office collections."
+      },
+      {
+        "question": "How do I invest in a movie?",
+        "answer": "You can invest by purchasing fan cards for a specific movie. Once the movie is released, you will receive a share of the profits based on the movie’s performance."
+      },
+      
+      
+      
+      {
+        "question": "How do I contact customer support?",
+        "answer": "You can reach out to our support team via email or live chat available on our platform."
+      },
+      {
+        "question": "Are there any fees for investing?",
+        "answer": "A small platform fee may be charged on investments to cover operational costs. Details are available on the investment page."
+      }
+    ]
+  }
+  

@@ -1,0 +1,11 @@
+
+
+.clip-half {
+  clip-path: inset(0 50% 0 0);
+}
+p {
+  color: #263238;
+}
+strong {
+  color: #0c8281;
+}

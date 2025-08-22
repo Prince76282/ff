@@ -1,0 +1,58 @@
+[
+  {
+    "projectName": "Omniscient Reader's View",
+    "tier": "Gold",
+    "investment": "₹250",
+    "returns": "₹250",
+    "status": "Streaming Now"
+  },
+  {
+    "projectName": "Solo Leveling",
+    "tier": "Diamond",
+    "investment": "₹500",
+    "returns": "₹750",
+    "status": "Post Production"
+  },
+  {
+    "projectName": "The Beginning After the End",
+    "tier": "Silver",
+    "investment": "₹300",
+    "returns": "₹400",
+    "status": "Filming"
+  },
+  {
+    "projectName": "Tower of God",
+    "tier": "Gold",
+    "investment": "₹200",
+    "returns": "₹280",
+    "status": "In Development"
+  },
+  {
+    "projectName": "Nano Machine",
+    "tier": "Diamond",
+    "investment": "₹600",
+    "returns": "₹900",
+    "status": "Script Writing"
+  },
+  {
+    "projectName": "Legend of the Northern Blade",
+    "tier": "Platinum",
+    "investment": "₹700",
+    "returns": "₹1050",
+    "status": "Pre Production"
+  },
+  {
+    "projectName": "Legend of the Northern Blade",
+    "tier": "Platinum",
+    "investment": "₹700",
+    "returns": "₹1050",
+    "status": "Pre Production"
+  },
+  {
+    "projectName": "Legend of the Northern Blade",
+    "tier": "Platinum",
+    "investment": "₹700",
+    "returns": "₹1050",
+    "status": "Pre Production"
+  }
+]
