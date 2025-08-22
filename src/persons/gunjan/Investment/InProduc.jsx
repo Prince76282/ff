@@ -2,7 +2,7 @@
 import React from 'react'
 import MovieCard from '@/persons/ayushi/MovieCard'
 import Review from '../Project details/Review'
-import LatestUpdates from './Updates_list'
+import LatestUpdates from './Updateslist'
 import FundingInsights from './FundingInsights';
 
 const InProduc = () => {
