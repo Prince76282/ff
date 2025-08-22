@@ -2,7 +2,7 @@
 import Nftcartpages from "./Cartnft";
 import { useEffect, useRef, useState } from "react";
 import useApiHandler from "@/hooks/useApiCall";
-import { showErrorToast, showSuccessToast } from "@/lib/toastUtils";
+import { showErrorToast} from "@/lib/toastUtils";
 
 import { AiOutlineDelete } from "react-icons/ai";
 
